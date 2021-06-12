@@ -39,10 +39,3 @@ eg:
     static const OPEN_WEATHER_MAP = 'your_key';
   }
   ```
-
-
-
-
-## Acknowledgments
-
-* [Weather Icon Pack](https://erikflowers.github.io/weather-icons/)
